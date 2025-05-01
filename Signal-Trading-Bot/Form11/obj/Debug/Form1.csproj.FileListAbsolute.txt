@@ -1,0 +1,2 @@
+D:\GithubNew\11\CryptoSignal3\Signal3\Signal-Trading-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\11\CryptoSignal3\Signal3\Signal-Trading-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
